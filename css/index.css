@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+bodY{
+    background-color: rgb(4, 4, 88);
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+h3{
+    color: white;
+    font-family: monospace;
+}
+.p1{
+    color: white;
+ margin-left: 10px;
+
+}
+ 
+
+.p2{
+    color: white;
+    margin-left: 10px;
+
+}
+
+.p3{
+ color: white;
+ margin-left: 10px;
+}
+
+.p4{
+    color:white;
+    margin-left: 10px;
+}
+
+.p5{
+    color: white;
+    margin-left: 10px;
+}
+
+#botao{
+    border: solid 1px ;
+    border-radius: 10px;
+    background-color:  rgb(1, 1, 78);
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(237, 237, 253);
+}
+
+h2{
+    text-align: center;
+}
+
+
+#jogo2{
+    border: 1px solid;  
+    padding: 20px; 
+    width: 400px; 
+    margin: 0 auto; 
+    box-sizing: border-box; 
+}
+
+
+
+#botao1{
+    border: solid 1px;
+    border-radius: 30px;
+    max-width: 1000%;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+footer{
+    border: solid 1px;
+    background-color: rgb(214, 233, 235);
+    padding: 5%;
+}
+
+.rodape1{
+    text-align: center;
+}
+
+.rodape2{
+    margin: 5px;
+    text-align: center;
+}
